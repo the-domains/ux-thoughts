@@ -1,0 +1,14 @@
+layout_spectrum: 0.7582016841042787
+typography_spectrum: 0.391625773627311
+color:
+  brandStrength: 0.05987569782882929
+  lightness: 0.6627963702194393
+  saturation: 0.22871840232983232
+  rhythmicContrast: 0.8955689317081124
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: ux thoughts
